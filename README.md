@@ -1,9 +1,9 @@
 # Image Steganography App
 
-**Author:** Ahsan
+**Author:** Ahsan idrees
 **Reg No:** 235139
 **Institution:** Air University, Aerospace & Aviation Campus, Kamra
-**Supervisor:** [Sir ka naam]
+**Supervisor:** Sir Ghulam Ali
 **Course:** Digital Image Processing
 
 ## Description
