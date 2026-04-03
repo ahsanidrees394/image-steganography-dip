@@ -15,3 +15,6 @@ pip install pillow numpy
 ## Usage
 python steganography_app.py hide --cover cover_image.jpg --secret secret_image.jpg
 python steganography_app.py reveal --stego stego_output.png
+
+ linkdin link:
+ www.linkedin.com/in/muhammad-ahsan-idrees-9a5950293
